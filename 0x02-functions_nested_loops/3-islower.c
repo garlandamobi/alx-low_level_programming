@@ -2,11 +2,12 @@
 
 /**
  * _islower - Check for lowercase ASCII characters
+ * @c: This is an ASCII character
+ *
  * Description: This program receives a character from
  * the user and then determines if the character is a
  * lowercase character or not.
- *
- * Return: 1 (if c is lowercase) or 0 (not lowercase)
+ *Return: 1 (if c is lowercase) or 0 (not lowercase)
  */
 int _islower(int c)
 	{
